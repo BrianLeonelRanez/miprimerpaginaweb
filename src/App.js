@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Brian Leonel Rañez
+          Soy Brian Leonel Rañez
         </a>
       </header>
     </div>
